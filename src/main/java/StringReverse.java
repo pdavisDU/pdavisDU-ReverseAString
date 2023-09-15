@@ -10,7 +10,7 @@ public class StringReverse {
      * You could also look into the methods provided by StringBuilder.
      *
      * @param str a String.
-     * @return the reverse of str.
+     * @return the reverse of str..
      */
     public String reverse(String str){
         if (str == null) {
